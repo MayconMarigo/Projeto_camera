@@ -18,4 +18,5 @@ De forma geral, o sistema visa coletar informações de temperatura através de 
 Ferramentas utilizadas:
 
 > LucidChart
+
 > Eclipse
