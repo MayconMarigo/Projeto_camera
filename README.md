@@ -6,11 +6,15 @@ De forma geral, o sistema visa coletar informações de temperatura através de 
 
 > Diagrama de Classes:
 
-![WhatsApp Image 2022-04-05 at 15 04 12](https://user-images.githubusercontent.com/67290959/161861341-a0b9c754-65fe-44b9-a9a9-a0d2ba40b964.jpeg)
+![image](https://user-images.githubusercontent.com/67290959/161864505-8d19aefb-7470-405a-a4b7-72456a948370.png)
 
 > Diagrama de Sequência:
 
 ![WhatsApp Image 2022-04-05 at 15 15 22](https://user-images.githubusercontent.com/67290959/161861357-bd5cc37b-b5f0-4c07-aa7a-0b2e405fb5aa.jpeg)
+
+> Diagrama de Atividades:
+
+![image](https://user-images.githubusercontent.com/67290959/161864630-1f02bec0-8b91-4b32-8610-18bbb21c8e4b.png)
 
 > Diagrama de Caso de Uso:
 
