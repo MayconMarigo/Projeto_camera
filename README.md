@@ -3,7 +3,9 @@ Projeto realizado para a disciplina de Gestão de projetos - Quinto semestre Uni
 
 Alunos envolvidos:
 Maycon Pires Marigo
+
 Gustavo Írio Buss : https://github.com/GustavoIrio
+
 Victor Alves Curti
 
 O software analisado fora o sistema de detecção de máscaras e temperatura fixado na entrada da Universidade Unicesumar - Londrina.
