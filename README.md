@@ -2,6 +2,7 @@
 Projeto realizado para a disciplina de Gestão de projetos - Quinto semestre Unicesumar - Londrina
 
 Alunos envolvidos:
+
 Maycon Pires Marigo
 
 Gustavo Írio Buss : https://github.com/GustavoIrio
