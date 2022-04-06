@@ -18,6 +18,7 @@ De forma geral, o sistema visa coletar informações de temperatura através de 
 
 > Diagrama de Caso de Uso:
 
+![UseCase](https://user-images.githubusercontent.com/67290959/161871042-6058c7e8-3e9b-495f-97e2-74f8235c812c.png)
 
 Ferramentas utilizadas:
 
